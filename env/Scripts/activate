@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\AMAZON\ALU-BSE\African-Lingo\env"
+VIRTUAL_ENV="C:\Users\DELL\AndroidStudioProjects\Alx-portfolioProject\African-Lingo\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
